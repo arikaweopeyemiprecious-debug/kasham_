@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Kasham Footwears",
+  "short_name": "Kasham",
+  "description": "Explore handmade footwear from Kasham Footwears.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#251915",
+  "icons": [
+    {
+      "src": "site-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
